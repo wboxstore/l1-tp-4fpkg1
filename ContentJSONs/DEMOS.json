@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/demo.pkg": {
+      "title_id": "CUSA74400",
+      "region": "EUR",
+      "name": "Demo",
+      "version": "8.59",
+      "release": "07-10-2002",
+      "size": 22865266279,
+      "min_fw": "1.89",
+      "cover_url": null
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "DATA": {
+    "https://raw.githubusercontent.com/sandrostoregames/fakepkgi/refs/heads/main/RESIDENTEVIL4.json": {
+      "title_id": "SLES53702",
+      "region": "EUR",
+      "name": "RESIDENT EVIL 4 HD",
+      "version": "6.52",
+      "release": "03-26-2045",
+      "size": 3587506176,
+      "min_fw": "6.00",
+      "cover_url": null
+    },
+  "DATA": {
+    "https://vikingf1le.us.to/d/VyLn38yJ8D/PS2-BOMBA.PATCH.PS4.SETEMBRO.2025.pkg": {
+      "title_id": "SLES53702",
+      "region": "EUR",
+      "name": "BOMBA PATCH PS4 SETEMBRO 2025",
+      "version": "6.52",
+      "release": "03-26-2045",
+      "size": 3587506176,
+      "min_fw": "6.00",
+      "cover_url": null
+    }	
+  }
+}

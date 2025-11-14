@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/theme.pkg": {
+      "title_id": "CUSA04927",
+      "region": "EUR",
+      "name": "Theme",
+      "version": "9.38",
+      "release": "06-04-2034",
+      "size": 17719387506,
+      "min_fw": "2.12",
+      "cover_url": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://autodownload.sandrostoreps3.workers.dev/2:/ps1-games/RAYMAN-SLUS01235.pkg": {
+      "title_id": "SLUS01235",
+      "region": null,
+      "name": "Rayman 2",
+      "version": "1.00",
+      "release": "07-03-2000",
+      "size": 529727488,
+      "min_fw": "9.00",
+      "cover_url": null
+    }
+  }
+}

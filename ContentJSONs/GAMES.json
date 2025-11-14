@@ -1,0 +1,49 @@
+{
+  "DATA": {
+	/* Assassin's Creed Valhalla */  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/A/Assassins.Creed.Valhalla_CUSA18534/Assassins.Creed.Valhalla_01_CUSA18534_v8.00_FullGame_9.00.pkg": {"title_id": "CUSA18534","region": "USA","name": "Assassin's Creed Valhalla v8.00 FullGame 9.00 (Dublado PT-BR)",
+      "version": "8.00","release": "09-06-2018","size": 1679163392,"min_fw": "5.05","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	  	
+    "https://autodownload.sandrostoreps3.workers.dev/2:/A/Assassins.Creed.Valhalla_CUSA18534/Assassins.Creed.Valhalla_02_CUSA18534_v8.00_OptionalFix_[9.00]_OPOISSO893.pkg": {"title_id": "CUSA18534","region": "USA","name": "Assassin's Creed Valhalla OptionalFix 9.00 (Dublado PT-BR)",
+      "version": "8.00","release": "09-06-2018","size": 1679163392,"min_fw": "5.05","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/A/Assassins.Creed.Valhalla_CUSA18534/Assassins.Creed.Valhalla_03_CUSA18534_v8.00_BACKPORT_[5.05-6.72-7.xx-8.xx]_OPOISSO893.pkg": {"title_id": "CUSA18534","region": "USA","name": "Assassin's Creed Valhalla BACKPORT 5.05-6.72-7.xx-8.xx (Dublado PT-BR)",
+      "version": "8.00","release": "09-06-2018","size": 1679163392,"min_fw": "5.05","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	  
+	/* Bloodstained Curse of the Moon */ 	  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/B/Bloodstained.Curse.of.the.Moon.CUSA12562/Bloodstained.Curse.of.the.Moon.CUSA12562.pkg": {"title_id": "CUSA12562","region": "USA","name": "Bloodstained Curse of the Moon (Legendado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png" },  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/B/Bloodstained.Curse.of.the.Moon.CUSA12562/Bloodstained.Curse.of.the.Moon.CUSA12562.Update.v1.01.pkg": {"title_id": "CUSA12562","region": "USA","name": "Bloodstained Curse of the Moon Update V1.01 (Legendado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+	/* Brothers a Tale of Two Sons */
+    "https://autodownload.sandrostoreps3.workers.dev/2:/B/Brothers.a.Tale.of.Two.Sons.CUSA02297/Brothers.a.Tale.of.Two.Sons.CUSA02297.pkg": {"title_id": "CUSA02297","region": "USA","name": "Brothers a Tale of Two Sons (Legendado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"}, 
+	/* Crash Bandicoot N. Sane Trilogy */	  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399.01.pkg": {"title_id": "CUSA07399","region": "USA","name": "Crash Bandicoot N. Sane Trilogy (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399.02.UP.v1.01.BR.pkg": {"title_id": "CUSA07399","region": "USA","name": "Crash Bandicoot N. Sane Trilogy Update V1.01 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399.03.UP.v1.07.pkg": {"title_id": "CUSA07399","region": "USA","name": "Crash Bandicoot N. Sane Trilogy Update V1.07 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+	/* Crash Bandicoot 4 Its About Time */	  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Bandicoot.4.Its.About.Time.CUSA19035/Crash.Bandicoot.4.Its.About.Time.CUSA19035.01.pkg": {"title_id": "CUSA19035","region": "USA","name": "Crash Bandicoot 4 Its About Time (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Bandicoot.4.Its.About.Time.CUSA19035/Crash.Bandicoot.4.Its.About.Time.CUSA19035.02-CB4DIGCONTENT001-A0000-V010000-CB4THEGAME000001-A0105-V0100.pkg": {"title_id": "CUSA19035","region": "USA","name": "Crash Bandicoot 4 Its About Time Update V1.05 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	
+	/* Crash Team Racing */
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Team.Racing.CUSA13795/Crash.Team.Racing.CUSA13795.01.pkg": {"title_id": "CUSA13795","region": "USA","name": "Crash Team Racing (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/C/Crash.Team.Racing.CUSA13795/Crash.Team.Racing.CUSA13795.02-CRASHTEAMRACING1-A0121-V0100.pkg": {"title_id": "CUSA13795","region": "USA","name": "Crash Team Racing Update V1.21 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	
+	/* Days Gone */
+    "https://autodownload.sandrostoreps3.workers.dev/2:/D/DAYS.GONE.CUSA09175/DAYS.GONE.CUSA09175-01.pkg": {"title_id": "CUSA09175","region": "USA","name": "Days Gone (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	
+    "https://autodownload.sandrostoreps3.workers.dev/2:/D/DAYS.GONE.CUSA09175/DAYS.GONE.CUSA09175-02-UP.v1.84.pkg": {"title_id": "CUSA09175","region": "USA","name": "Days Gone Update V1.84 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	
+	/* Death Stranding */
+    "https://autodownload.sandrostoreps3.workers.dev/2:/D/DEATH.STRANDING.CUSA11260/DEATH.STRANDING.CUSA11260-01.pkg": {"title_id": "CUSA11260","region": "USA","name": "Death Stranding (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},
+    "https://autodownload.sandrostoreps3.workers.dev/2:/D/DEATH.STRANDING.CUSA11260/DEATH.STRANDING.CUSA11260-02-UP.v1.13.pkg": {"title_id": "CUSA11260","region": "USA","name": "Death Stranding Update V1.13 (Dublado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"},	  
+	/* Brothers a Tale of Two Sons */	  
+    "https://autodownload.sandrostoreps3.workers.dev/2:/B/Bloodstained.Curse.of.the.Moon.CUSA12562/Bloodstained.Curse.of.the.Moon.CUSA12562.Update.v1.01.pkg": {"title_id": "CUSA12562","region": "USA","name": "Bloodstained Curse of the Moon Update V1.01 (Legendado PT-BR)",
+      "version": "1.01","release": "23-08-2013","size": 1048576,"min_fw": "6.72","cover_url": "https://ae04.alicdn.com/kf/S7f162e9d8cbe4646a5c7ffc266316648P.png_480x480.png"}	  
+  }
+}
