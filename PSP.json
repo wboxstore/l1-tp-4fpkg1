@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/psp-remaster.pkg": {
+      "title_id": "CUSA59045",
+      "region": null,
+      "name": "PSP Remaster",
+      "version": "5.54",
+      "release": "11-06-2031",
+      "size": 30747332682,
+      "min_fw": "9.64",
+      "cover_url": null
+    }
+  }
+}

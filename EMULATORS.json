@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/emulator.pkg": {
+      "title_id": "CUSA92138",
+      "region": null,
+      "name": "Emulator",
+      "version": "2.33",
+      "release": "03-14-2010",
+      "size": 20346742974,
+      "min_fw": "1.37",
+      "cover_url": null
+    }
+  }
+}

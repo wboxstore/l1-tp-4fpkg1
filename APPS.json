@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/application.pkg": {
+      "title_id": "CUSA13558",
+      "region": "EUR",
+      "name": "Application",
+      "version": "7.01",
+      "release": "11-17-2023",
+      "size": 15088138347,
+      "min_fw": "8.08",
+      "cover_url": null
+    }
+  }
+}
